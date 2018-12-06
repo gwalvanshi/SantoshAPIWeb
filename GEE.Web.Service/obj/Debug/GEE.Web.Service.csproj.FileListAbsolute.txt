@@ -1,0 +1,32 @@
+D:\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\bin\Debug\GEE.Web.Service.dll
+D:\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\bin\Debug\GEE.Web.Service.pdb
+D:\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\bin\Debug\GEE.Web.ViewModel.dll
+D:\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\bin\Debug\Newtonsoft.Json.dll
+D:\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\bin\Debug\System.Net.Http.dll
+D:\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\bin\Debug\GEE.Web.ViewModel.pdb
+D:\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\bin\Debug\Newtonsoft.Json.pdb
+D:\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\bin\Debug\Newtonsoft.Json.xml
+D:\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\obj\Debug\GEE.Web.Service.csprojAssemblyReference.cache
+D:\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\obj\Debug\GEE.Web.Service.csproj.CoreCompileInputs.cache
+D:\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\obj\Debug\GEE.Web.Service.csproj.CopyComplete
+D:\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\obj\Debug\GEE.Web.Service.dll
+D:\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\obj\Debug\GEE.Web.Service.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\bin\Debug\GEE.Web.Service.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\bin\Debug\GEE.Web.Service.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\bin\Debug\GEE.Web.ViewModel.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\bin\Debug\Newtonsoft.Json.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\bin\Debug\System.Net.Http.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\bin\Debug\GEE.Web.ViewModel.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\bin\Debug\Newtonsoft.Json.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\bin\Debug\Newtonsoft.Json.xml
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\obj\Debug\GEE.Web.Service.csprojResolveAssemblyReference.cache
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\obj\Debug\GEE.Web.Service.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Service\obj\Debug\GEE.Web.Service.pdb

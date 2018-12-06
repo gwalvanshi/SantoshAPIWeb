@@ -1,0 +1,11 @@
+D:\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.ViewModel\bin\Debug\GEE.Web.ViewModel.dll
+D:\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.ViewModel\bin\Debug\GEE.Web.ViewModel.pdb
+D:\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.ViewModel\obj\Debug\GEE.Web.ViewModel.csproj.CoreCompileInputs.cache
+D:\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.ViewModel\obj\Debug\GEE.Web.ViewModel.dll
+D:\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.ViewModel\obj\Debug\GEE.Web.ViewModel.pdb
+D:\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.ViewModel\obj\Debug\GEE.Web.ViewModel.csprojAssemblyReference.cache
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.ViewModel\bin\Debug\GEE.Web.ViewModel.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.ViewModel\bin\Debug\GEE.Web.ViewModel.pdb
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.ViewModel\obj\Debug\GEE.Web.ViewModel.csprojResolveAssemblyReference.cache
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.ViewModel\obj\Debug\GEE.Web.ViewModel.dll
+E:\Mohit Agrawal USA\code GEE New 3 dec 2018\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.ViewModel\obj\Debug\GEE.Web.ViewModel.pdb

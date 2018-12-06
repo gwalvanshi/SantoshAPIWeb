@@ -1,0 +1,6 @@
+D:\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Utility\bin\Release\GEE.Web.Utility.dll
+D:\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Utility\bin\Release\GEE.Web.Utility.pdb
+D:\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Utility\obj\Release\GEE.Web.Common.csprojAssemblyReference.cache
+D:\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Utility\obj\Release\GEE.Web.Common.csproj.CoreCompileInputs.cache
+D:\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Utility\obj\Release\GEE.Web.Utility.dll
+D:\GEE New\GlobalEduERP-Web\GEE-Web\GEE.Web.Utility\obj\Release\GEE.Web.Utility.pdb
